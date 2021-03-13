@@ -9,14 +9,14 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "^1.0.0",
-    "@vue/composition-api": "^0.6.4",
-    "core-js": "^3.6.5",
-    "quasar": "^1.0.0"
+    "@quasar/extras": "^1.9.19",
+    "@vue/composition-api": "^0.6.7",
+    "core-js": "^3.9.1",
+    "quasar": "^1.15.5"
   },
   "devDependencies": {
-    "@quasar/app": "^2.0.0",
-    "@types/node": "^10.17.15"
+    "@quasar/app": "^2.2.1",
+    "@types/node": "^14.14.34"
   },
   "browserslist": [
     "last 10 Chrome versions",
