@@ -1,0 +1,7 @@
+{
+  "appId": "org.dittoe.app",
+  "appName": "iOS App Demo",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
