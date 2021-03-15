@@ -31,3 +31,4 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+src-capacitor/ios/App/App/capacitor.config.json
